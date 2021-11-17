@@ -1,0 +1,15 @@
+.arial {font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+button {
+    background-color: rgb(247, 210, 234);
+    border: 2px solid rgb(12, 112, 179);
+    font-weight: bold;
+    
+  }
+
+button:hover {background-color: #8db2f7}
+
+label:before {
+    content: "\a";
+    white-space: pre;
+}
